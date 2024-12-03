@@ -1,4 +1,4 @@
 {
-  "claimEnabled": true,
-  "message": "Claims are running smoothly!"
+  "claimEnabled": false,
+  "message": "Claims are Disabled Right now for maintenance",
 }
