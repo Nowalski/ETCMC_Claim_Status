@@ -1,6 +1,6 @@
 {
-  "claimEnabled": true,
-  "message": "Claiming is currently enabled. Proceed with your claim.",
+  "claimEnabled": false,
+  "message": "Claiming is currently disabled for maintenance.",
   "stakingCheckEnabled": true,
   "rpcURL": "https://rpc.mordor.etccooperative.org"
 }
