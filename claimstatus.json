@@ -2,5 +2,5 @@
   "claimEnabled": true,
   "message": "Claiming is currently enabled. Proceed with your claim.",
   "stakingCheckEnabled": true,
-  "rpcUrl": "https://rpc.mordor.etccooperative.org"
+  "rpcUrl": "https://etc.rivet.link"
 }
