@@ -1,5 +1,5 @@
 {
-  "claimEnabled": false,
+  "claimEnabled": true,
   "message": "Claiming is currently disabled for maintenance.",
   "stakingCheckEnabled": false,
   "rpcURL": "https://etc.rivet.link"
