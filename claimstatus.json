@@ -1,6 +1,11 @@
 {
   "claimEnabled": false,
-  "message": "Claiming is currently disabled for maintenance.",
+  "message": "Claiming is currently disabled for maintenance.", 
   "stakingCheckEnabled": true,
-  "rpcURL": "https://etc.rivet.link"
+  "rpcURL": "https://etc.rivet.link",
+  "claimEnabledV2": true,
+  "messageV2": "V2 claims are now available!",
+  "claimEndpoint": "https://claim-v2.etcmc-monitor.org/",
+  "licenseContractAddress": "0xNEW_V2_LICENSE", 
+  "stakingContractAddress": "0xNEW_V2_STAKING"
 }
