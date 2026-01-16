@@ -4,7 +4,7 @@
   "stakingCheckEnabled": true,
   "rpcURL": "https://etc.rivet.link",
   "claimEnabledV2": false,
-  "messageV2": "V2 active!",
+  "messageV2": "V2 Not Yet Active!",
   "stakingCheckEnabledV2": true,
   "claimEndpoint": "https://claim-v2.etcmc-monitor.org/",
   "licenseContractAddress": "0x87552F69536381F2E68a81Bf2E10ADE8a7834024",
