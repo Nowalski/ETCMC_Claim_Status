@@ -3,7 +3,7 @@
   "message": "V1 disabled",
   "stakingCheckEnabled": true,
   "rpcURL": "https://etc.rivet.link",
-  "claimEnabledV2": true,
+  "claimEnabledV2": false,
   "messageV2": "V2 active!",
   "stakingCheckEnabledV2": true,
   "claimEndpoint": "https://claim-v2.etcmc-monitor.org/",
