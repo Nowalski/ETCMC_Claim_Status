@@ -3,7 +3,7 @@
   "message": "Claiming is currently disabled for maintenance.",
   "stakingCheckEnabled": true,
   "rpcURL": "https://etc.rivet.link",
-  "claimEnabledV2": false,
+  "claimEnabledV2": true,
   "messageV2": "V2 In Beta Active!",
   "stakingCheckEnabledV2": true,
   "claimEndpoint": "https://claim-v2.etcmc-monitor.org/",
