@@ -8,5 +8,5 @@
   "stakingCheckEnabledV2": true,
   "claimEndpoint": "https://claim-v2.etcmc-monitor.org/",
   "licenseContractAddress": "0x068Ce72b0d703c8bcE9e095219f9250a9C52ccdd",
-  "stakingContractAddress": "0x47eE695156702d55A2912eA762331A3D38CECF94"
+  "stakingContractAddress": "0x8055e9Dd95d12F8a3F8F55c1092cfAF122ac4321"
 }
