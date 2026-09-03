@@ -2,7 +2,7 @@
   "claimEnabled": false,
   "message": "Claiming is currently disabled for maintenance.",
   "stakingCheckEnabled": true,
-  "rpcURL": "https://etc.rivet.link/",
+  "rpcURL": "https://0xrpc.io/etc",
   "claimEnabledV2": true,
   "messageV2": "Claiming is currently disabled for maintenance.",
   "stakingCheckEnabledV2": true,
